@@ -1,4 +1,6 @@
-#   Este projeto consiste em um sistema de cadastro de candidatos para um vestibular utilizando as tecnologias PHP OO e SGBD MySQL.
+#   AVALIAÇÃO 2 
+
+Este projeto consiste em um sistema de cadastro de candidatos para um vestibular utilizando as tecnologias PHP OO e SGBD MySQL.
 Pré-requisitos
 Servidor Web (ex
 SGBD MySQL
